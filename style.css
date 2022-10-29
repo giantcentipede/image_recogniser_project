@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(#d0f52b,#2bb8f5);
+}
+
+#camera{
+border:3px dashed cornflowerblue;
+  width: 350px;
+  height:300px;
+}
